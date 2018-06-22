@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
-  s.name             = "Jukebox"
+  s.name             = "JesseJohnsonJukebox"
   s.version          = "0.2.1"
-  s.summary          = "Jukebox is an iOS audio player written in Swift."
+  s.summary          = "Jukebox is a fork of Teodor Patras' Jukebox."
 
-  s.homepage         = "https://github.com/teodorpatras/Jukebox"
+  s.homepage         = "https://github.com/jessejohnson/Jukebox"
   s.license          = 'MIT'
-  s.author           = { "Teodor Patras" => "me@teodorpatras.com" }
-  s.source           = { :git => "https://github.com/teodorpatras/Jukebox.git", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/teodorpatras'
+  s.author           = { "Jesse Johnson" => "thatguy@jessejojojohnson.com" }
+  s.source           = { :git => "https://github.com/jessejohnson/Jukebox.git", :tag => s.version.to_s }
+  s.social_media_url = 'https://jessejojojohnson.com'
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
