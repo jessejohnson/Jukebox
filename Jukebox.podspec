@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "JesseJohnsonJukebox"
+  s.name             = "Jukebox"
   s.version          = "0.2.1"
   s.summary          = "Jukebox is a fork of Teodor Patras' Jukebox."
 
